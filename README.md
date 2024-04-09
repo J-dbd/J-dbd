@@ -36,8 +36,5 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=J-dbd&layout=compact'>
 </div>
 <br/>
-<div align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=J-dbd&show_icons=true&theme=react'>
-</div>
 
 <div style="text-align: right"> <a href='./public/Readme/docs/References_readme.md'>Sources of materials for this README.md</a></div>
